@@ -1,6 +1,6 @@
 # QuantEcon Summer Course in Quantitative Economics
 
-The Summer Course in Quantitative Economics 2022 will be run by
+The Summer Course in Quantitative Economics 223 will be run by
 [QuantEcon](https://quantecon.org/) in partnership with the [African School of
 Economics](https://africanschoolofeconomics.com/) (ASE), and the [Institute of
 Statistics and Applied Economics](https://ensea.ed.ci/) (ENSEA).  The target
@@ -11,7 +11,7 @@ The course will provide students with an introduction and exposure to key
 tools in quantitative economics that are in high demand in academic economics
 and industry.
 
-The workshop will run **Monday-Friday July 11-15 and Monday-Friday July 18-22**.
+The workshop will run **Monday-Friday July 03-07 and Monday-Friday July 10-14**.
 
 The lead instructor and academic coordinator for the program is [Thomas J.
 Sargent](http://www.tomsargent.com/), co-founder of QuantEcon, Professor of
@@ -21,37 +21,18 @@ Sciences.
 ## How will the Workshops Work? 
 
 Due to the large number of enrolments, lectures will be pre-recorded rather
-than live.  We will also provide assignments and a discourse forum where you
-can ask questions and get answers from instructors and your peers.  New videos
-and assignments will be distributed through Google Classroom, starting from
-July 11th.
+than live.  We will also provide exercises and a forum where you
+can ask questions and get answers from instructors and your peers.  
+
+New course videos will be released each day of the workshop
 
 Students will require access to a computer.
 
-### Google Classroom
-
-You will need to sign up to the Google Classroom using [this invitation
-link](https://classroom.google.com/c/NDk1NzE1MzU0MDY1?cjc=mwa777q).
-This is where we will distribute materials for the workshop. 
-
-### Google Colab
-
-We recommend using [Google Colab](https://colab.research.google.com) for
-running notebooks that contain lecture material and Python code.  We will
-provide instructions for using Google Colab, as well as for installing Python
-on your own computer (which is optional, not required).
-
-### Discourse Forum
-
-You can now sign up to the [Workshop Discourse
-Forum](https://quantecon-workshop.discourse.group/login) We strongly encourage
-you to use the forum to ask questions and get answers from instructors and
-peers.
-
 ## Syllabus
 
-The language of instruction will be English.  The programming language used in
-the course will be Python.
+The language of instruction will be English.  
+
+The programming language used in the course will be Python.
 
 The course will cover selected topics from 
 
