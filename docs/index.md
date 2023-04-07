@@ -1,6 +1,6 @@
 # QuantEcon Summer Course in Quantitative Economics
 
-The Summer Course in Quantitative Economics 223 will be run by
+The Summer Course in Quantitative Economics 2023 will be run by
 [QuantEcon](https://quantecon.org/) in partnership with the [African School of
 Economics](https://africanschoolofeconomics.com/) (ASE), and the [Institute of
 Statistics and Applied Economics](https://ensea.ed.ci/) (ENSEA).  The target
@@ -11,7 +11,9 @@ The course will provide students with an introduction and exposure to key
 tools in quantitative economics that are in high demand in academic economics
 and industry.
 
-The workshop will run **Monday-Friday July 03-07 and Monday-Friday July 10-14**.
+The workshop will run:
+1. **Monday-Friday July 03-07**, and 
+2. **Monday-Friday July 10-14**
 
 The lead instructor and academic coordinator for the program is [Thomas J.
 Sargent](http://www.tomsargent.com/), co-founder of QuantEcon, Professor of
