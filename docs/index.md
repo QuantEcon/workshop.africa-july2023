@@ -17,7 +17,7 @@ The workshop will run in 2023 over the weeks
 1. **Monday-Friday July 03-07**
 2. **Monday-Friday July 10-14**
 
-Classes will be 3  hours per day, 5 days per week. 
+Classes will be 3 hours per day, 5 days per week. 
 
 The lead instructor and academic coordinator for the program is [Thomas J.
 Sargent](http://www.tomsargent.com/), co-founder of QuantEcon, Professor of
@@ -71,8 +71,6 @@ The course will cover selected topics about
 Background reading on these topics can be found in the lecture
 series [Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html) and in a soon to be released lecture series about elementary economics, at the quantecon site.
 
-
-
 ## Learning outcomes
 
 Participants will learn how to connect economic modeling problems to numerical implementations in Python using clear, efficient and effective code.
@@ -86,10 +84,12 @@ We shall strive to make classes assessible to students who want to learn Python 
 
 Programming experience will be helpful but is not a prerequisite.
 
+## Registration Details
+
+Please register through [this site](https://africa-summer-course.quantecon.org/qe-summer-workshop-landing?redirectTo=/)
+
 ## Contact
 
 Organizers of the program can be reached through `contact@quantecon.org`.
 
-## Registration Details
 
-Very soon there will be instructions at the quantecon website about how to register for the class. 
