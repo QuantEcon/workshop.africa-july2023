@@ -1,0 +1,33 @@
+name: 'QuantEcon Africa Summer Course'
+number: 'July 2023'
+lectures:
+  - title: Introduction
+    description: Introduction to the QuantEcon Africa summer course
+    path: intro/
+    availableAt: 2023-07-03T00:00:00-04:00
+    contents:
+      - type: video
+        url: 
+        title: Introduction to workshop
+        description: 'An introduction to the workshop with Tom Sargent'
+  - title: Day 01
+    description: Introduction to Computational Economics
+    path: lectures/L02_organizing_data_1
+    availableAt: 2023-07-03T00:00:00-04:00
+    contents:
+      - type: video
+        url: 
+        title: (Python) Getting Started + Functions + Writing Good Code
+        description: This lecture provides an introduction to python programming
+      # - type: notebook
+      #   fileName: 01_the_index.ipynb
+      #   title: 01_the_index.ipynb
+      #   description: Learn about the index of a DataFrame or Series
+      - type: video
+        url: 
+        title: (Tools) An introduction to Jupyter notebooks
+        description: This is a guide to using jupyter notebooks and Google Colab
+      # - type: notebook
+      #   fileName: 02_storage_formats.ipynb
+      #   title: 02_storage_formats.ipynb
+      #   description: Learn about common data storage formats and how to interact with them in pandas
