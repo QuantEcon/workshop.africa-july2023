@@ -3,7 +3,7 @@ number: 'July 2023'
 lectures:
   - title: Introduction
     description: Introduction to the QuantEcon Africa summer course
-    # path: intro/
+    path: intro/
     availableAt: 2023-06-28T00:00:00-04:00
     contents:
       - type: video
