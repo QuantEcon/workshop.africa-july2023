@@ -27,10 +27,6 @@ lectures:
         fileName: exercise_set_1.ipynb
         title: Exercise Set 1
         description: 'Practice the basics of Python Programming'
-      - type: notebook
-        fileName: exercise_set_1_with_solution.ipynb
-        title: Exercise Set 1 Solutions
-        description: 'Solutions of the basics of Python Programming'
       - type: video
         url: https://www.youtube.com/watch?v=HukIbUiAjPg # REPLACE
         title: (Tools) An introduction to Jupyter notebooks
