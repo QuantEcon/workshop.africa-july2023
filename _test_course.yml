@@ -1,0 +1,52 @@
+name: 'QuantEcon TEST Summer Course'
+number: 'June 2023'
+lectures:
+  - title: Introduction
+    description: Introduction to the QuantEcon Africa summer course
+    path: intro/
+    availableAt: 2023-06-28T00:00:00-04:00
+    contents:
+      - type: video
+        url:  https://www.youtube.com/watch?v=HukIbUiAjPg # REPLACE
+        title: Introduction to workshop
+        description: 'An introduction to the workshop with Tom Sargent'
+  - title: Day 01
+    description: Introduction to Computational Economics
+    path: _references/exercises
+    availableAt: 2023-06-28T00:00:00-04:00
+    contents:
+      - type: video
+        url: https://youtu.be/WMx50f0HdMI # REPLACE
+        title: (Python) Getting Started + Functions + Writing Good Code
+        description: 'This lecture provides an introduction to python programming'
+      - type: notebook
+        fileName: exercise_set_1.ipynb
+        title: Exercise Set 1
+        description: 'Practice the basics of Python Programming'
+  - title: Day 02
+    description: Day 2 of the Summer Course
+    path: _references/exercises
+    availableAt: 2023-06-28T00:00:00-04:00
+    contents:
+      - type: notebook
+        fileName: exercise_set_2.ipynb
+        title: Exercise Set 2
+        description: 'Exercise Set 2'
+  - title: Day 03
+    description: Day 3 of the Summer Course
+    path: _references/exercises
+    availableAt: 2023-06-28T00:00:00-04:00
+    contents:
+      - type: notebook
+        fileName: exercise_set_3.ipynb
+        title: Exercise Set 3
+        description: 'Exercise Set 3'
+  - title: Day 04
+    description: Day 4 of the Summer Course
+    path: _references/exercises
+    availableAt: 2023-06-28T00:00:00-04:00
+    contents:
+      - type: notebook
+        fileName: exercise_set_4.ipynb
+        title: Exercise Set 4
+        description: 'Exercise Set 4'
