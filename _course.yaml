@@ -10,6 +10,10 @@ lectures:
         url: https://youtu.be/HukIbUiAjPg # REPLACE
         title: Introduction to workshop
         description: 'An introduction to the workshop with Tom Sargent'
+      - type: notebook
+        fileName: exercise_set_1.ipynb
+        title: Exercise Set 1
+        description: 'Practice the basics of Python Programming'
   - title: Day 01
     description: Introduction to Computational Economics
     path: day01
