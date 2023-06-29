@@ -1,5 +1,7 @@
-name: 'QuantEcon TEST Summer Course'
+name: 'QuantEcon TEST Course'
 number: 'June 2023'
+identifier: 'june-2023'
+courseType: 'mooc'
 lectures:
   - title: Introduction
     description: Introduction to the QuantEcon Africa summer course
