@@ -1,5 +1,9 @@
 name: 'QuantEcon TEST Summer Course'
 number: 'June 2023'
+identifier: 'Africa Fall 2023'
+courseType: 'semester'
+startDate: '2023-07-03T00:00:00+00:00'
+endDate: '2023-07-15T00:00:00+00:00'
 lectures:
   - title: Introduction
     description: Introduction to the QuantEcon Africa summer course
