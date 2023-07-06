@@ -80,7 +80,7 @@ These skills are in high demand for economists and data scientists at leading te
 
 ## Eligibility
 
-We shall strive to make classes assessible to students who want to learn Python and how to use it in economics.  That said, the course material will be challenging.  Ideal candidates will already have had at least some exposure to probability, linear algebra and principles of economics, including part of an undergraduate degree in economics or computer science.  
+We shall strive to make classes accessible to students who want to learn Python and how to use it in economics.  That said, the course material will be challenging.  Ideal candidates will already have had at least some exposure to probability, linear algebra and principles of economics, including part of an undergraduate degree in economics or computer science.  
 
 Programming experience will be helpful but is not a prerequisite.
 
